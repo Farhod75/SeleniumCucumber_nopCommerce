@@ -1,0 +1,203 @@
+2021-07-13 16:22:56,615 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 16:22:56,692 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 16:22:57,746 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 16:22:58,110 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 16:23:11,262 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-13 16:23:11,263 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-13 16:23:18,742 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-13 16:23:21,930 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 16:23:24,382 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 16:23:24,386 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 16:23:25,325 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 16:23:25,720 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 16:23:35,596 - SeleniumCucumber -INFO - ******* Searching customer by email id *****
+2021-07-13 16:23:39,213 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 16:23:41,632 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 16:23:41,637 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 16:23:42,636 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 16:23:42,981 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 16:23:52,475 - SeleniumCucumber -INFO - ******* Searching customer by Name *****
+2021-07-13 16:23:56,225 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 16:23:58,691 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 16:23:58,692 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 16:23:59,614 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 16:23:59,962 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 16:24:03,155 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-13 16:24:03,179 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-13 16:24:07,839 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-13 16:24:07,846 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 16:24:10,325 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 16:24:10,326 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 16:24:11,343 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 16:24:11,695 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 16:24:14,876 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-13 16:24:14,909 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-13 16:24:19,206 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-13 16:24:19,216 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 16:24:21,740 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 16:24:21,742 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 16:24:22,721 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 16:24:23,090 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 16:24:23,782 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-13 18:07:09,293 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 18:07:09,373 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 18:07:10,466 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 18:07:10,853 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 18:07:25,030 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-13 18:07:25,031 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-13 18:07:32,607 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-13 18:07:36,000 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 18:07:38,459 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 18:07:38,465 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 18:07:40,483 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 18:07:40,862 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 18:07:49,704 - SeleniumCucumber -INFO - ******* Searching customer by email id *****
+2021-07-13 18:07:53,320 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 18:07:55,728 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 18:07:55,730 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 18:07:56,671 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 18:07:57,015 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 18:08:06,943 - SeleniumCucumber -INFO - ******* Searching customer by Name *****
+2021-07-13 18:08:10,726 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 20:31:07,733 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:31:07,777 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:34:10,229 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:34:10,297 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:34:12,225 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 20:34:12,406 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 20:34:46,126 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:34:46,131 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:34:47,847 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 20:34:48,011 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 20:35:24,703 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:35:24,705 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:35:26,427 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 20:35:26,609 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 20:50:11,642 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:50:11,699 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:50:13,216 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 20:50:13,383 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 20:50:57,358 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:50:57,362 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:50:59,484 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 20:50:59,683 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 20:51:11,980 - SeleniumCucumber -INFO - ******* Searching customer by email id *****
+2021-07-13 20:51:16,279 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-13 20:51:47,033 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-13 20:51:47,035 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-13 20:51:49,072 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-13 20:51:49,249 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-13 20:52:01,451 - SeleniumCucumber -INFO - ******* Searching customer by Name *****
+2021-07-13 20:52:05,260 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 07:26:18,511 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 07:26:18,582 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 07:26:20,722 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 07:26:20,909 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 07:27:04,575 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 07:27:04,581 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 07:27:06,604 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 07:27:06,804 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 07:27:18,448 - SeleniumCucumber -INFO - ******* Searching customer by email id *****
+2021-07-14 07:27:22,745 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 07:27:53,207 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 07:27:53,210 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 07:27:55,327 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 07:27:55,524 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 07:28:07,222 - SeleniumCucumber -INFO - ******* Searching customer by Name *****
+2021-07-14 07:28:10,918 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 07:37:27,218 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 07:37:27,275 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 07:37:29,129 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 07:37:29,349 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 07:38:14,707 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 07:38:14,711 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 07:38:16,711 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 07:38:16,914 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 07:38:28,449 - SeleniumCucumber -INFO - ******* Searching customer by email id *****
+2021-07-14 07:38:32,698 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 07:39:03,837 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 07:39:03,840 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 07:39:05,780 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 07:39:05,959 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 07:39:18,254 - SeleniumCucumber -INFO - ******* Searching customer by Name *****
+2021-07-14 07:39:22,619 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 08:28:49,856 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 08:28:49,927 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 08:28:50,963 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 08:28:51,333 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 08:29:06,857 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-14 08:29:06,857 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-14 08:29:14,317 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-14 08:29:17,580 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 08:29:20,052 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 08:29:20,058 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 08:29:21,032 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 08:29:21,374 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 08:29:27,519 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 08:29:30,539 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-14 08:29:34,580 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 08:29:37,596 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 09:00:54,048 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 09:00:54,119 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 09:00:55,135 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 09:00:55,532 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 09:01:11,810 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-14 09:01:11,810 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-14 09:01:19,347 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-14 09:01:22,988 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 09:01:25,515 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 09:01:25,521 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 09:01:26,549 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 09:01:26,912 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 09:01:33,731 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 09:01:36,752 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-14 09:01:40,965 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 09:01:43,984 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 09:20:36,561 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 09:20:36,633 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 09:20:37,804 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 09:20:38,183 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 09:20:53,793 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-14 09:20:53,794 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-14 09:21:01,175 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-14 09:21:04,499 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 09:21:06,966 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 09:21:06,973 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 09:21:07,976 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 09:21:08,319 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 09:21:14,949 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 09:21:17,973 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-14 09:21:21,807 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 09:21:24,829 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 11:14:24,510 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 11:14:24,567 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 11:14:25,684 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 11:14:26,046 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 11:14:41,360 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-14 11:14:41,360 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-14 11:14:48,710 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-14 11:14:51,852 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-14 11:14:54,677 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-14 11:14:54,683 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-14 11:14:55,718 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-14 11:14:56,033 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-14 11:15:01,817 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 11:15:04,841 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-14 11:15:09,048 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-14 11:15:12,061 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-15 15:41:56,545 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-15 15:41:56,649 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-15 15:41:58,903 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-15 15:41:59,277 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-15 15:42:15,742 - SeleniumCucumber -INFO - ******* Adding new customer *****
+2021-07-15 15:42:15,742 - SeleniumCucumber -INFO - ******* Providing customer details *****
+2021-07-15 15:42:23,156 - SeleniumCucumber -INFO - ******* Saving customer data *****
+2021-07-15 15:42:27,013 - SeleniumCucumber -INFO - ******* Closing browser *****
+2021-07-15 15:42:29,369 - SeleniumCucumber -INFO - ******* Launching browser *****
+2021-07-15 15:42:29,374 - SeleniumCucumber -INFO - ******* Opening URL *****
+2021-07-15 15:42:31,236 - SeleniumCucumber -INFO - ******* Providing login details *****
+2021-07-15 15:42:31,579 - SeleniumCucumber -INFO - ******* Started login *****
+2021-07-15 15:42:37,478 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-15 15:42:40,485 - SeleniumCucumber -INFO - ******* Click logout link *****
+2021-07-15 15:42:44,298 - SeleniumCucumber -INFO - ******* Login failed *****
+2021-07-15 15:42:47,310 - SeleniumCucumber -INFO - ******* Closing browser *****
